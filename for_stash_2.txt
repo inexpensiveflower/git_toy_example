@@ -1,1 +1,3 @@
 for_stash_2.txt
+
+This is a change test
